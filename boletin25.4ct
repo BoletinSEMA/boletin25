@@ -1,0 +1,51 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{2}{x2-1000}{QQ2-2-1}{Editorial}}{2}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{2}{Q1-2-2}{}{Editorial}}{2}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{3}{x3-2000}{QQ2-3-3}{Palabras de la presidenta}}{6}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{3}{Q1-3-4}{}{Palabras de la presidenta}}{6}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{4}{x4-30001}{QQ2-4-5}{La Agencia Estatal de Investigaci\'on}}{9}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{4}{x4-40001}{QQ2-4-6}{\IeC {\textquestiondown }Qu\'e es la AEI?}}{9}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{4}{x4-50001}{QQ2-4-7}{\IeC {\textquestiondown }Cu\'ales son sus funciones?}}{9}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{4}{x4-60001}{QQ2-4-8}{Panel Cient\IeC {\'\i }fico-T\'ecnico de MTM de la AEI}}{10}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{4}{x4-70001}{QQ2-4-9}{\IeC {\textquestiondown }C\'omo ha evolucionado el presupuesto del \'area MTM dentro del Plan Estatal?}}{10}\relax 
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{4}{x4-7001r1}{}{\ignorespaces Presupuestos del Plan Estatal durante el periodo 2000-2017.}}{figure}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{4}{x4-80001}{QQ2-4-11}{\IeC {\textquestiondown }C\'omo ha evolucionado la tasa de \'exito dentro del Plan Estatal en el \'area MTM?}}{13}\relax 
+\doTocEntry\toclof{2}{\csname a:TocLink\endcsname{4}{x4-8001r2}{}{\ignorespaces Tasa de \'exito por convocatoria anual.}}{figure}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{4}{x4-90001}{QQ2-4-13}{\IeC {\textquestiondown }C\'omo se reparte el presupuesto del Plan Estatal entre \'areas dentro de la AEI?}}{16}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{4}{x4-100001}{QQ2-4-14}{\IeC {\textquestiondown }Qu\'e programas de recursos humanos de la AEI hay vigentes?}}{16}\relax 
+\doTocEntry\toclikesubsection{}{\csname a:TocLink\endcsname{4}{x4-110001}{QQ2-4-15}{\IeC {\textquestiondown }C\'omo se reparte el n\'umero de contratos en las convocatorias Juan de la Cierva (JdC) y Ram\'on y Cajal (RyC) entre \'areas dentro de la AEI?}}{16}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{5}{x5-120002}{QQ2-5-16}{9ECM en Sevilla y otras noticias del EMS Council de 2020}}{18}\relax 
+\doTocEntry\toclof{3}{\csname a:TocLink\endcsname{5}{x5-12002r3}{}{\ignorespaces Prof. Juan Gon\-z\'a\-lez-Meneses L\'opez.}}{figure}\relax 
+\doTocEntry\toclof{4}{\csname a:TocLink\endcsname{5}{x5-12003r4}{}{\ignorespaces Prof. Luis Narv\'aez Macarro.}}{figure}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{6}{x6-130003}{QQ2-6-19}{Noticias}}{22}\relax 
+\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{6}{x6-140003.1}{QQ2-6-20}{Matem\'aticas vs. COVID-19}}{22}\relax 
+\doTocEntry\toclof{5}{\csname a:TocLink\endcsname{6}{x6-14001r5}{}{\ignorespaces Mesa redonda sobre la importancia de los datos. De izquierda a derecha: Rosa Cano, Alfonso Gordaliza, Juan Manuel Rodr\IeC {\'\i }guez Poo y Ricardo Cao.}}{figure}\relax 
+\doTocEntry\tocsubsection{3.2}{\csname a:TocLink\endcsname{6}{x6-150003.2}{QQ2-6-22}{Premio Princesa de Asturias para cuatro matem\'aticos}}{29}\relax 
+\doTocEntry\tocsubsection{3.3}{\csname a:TocLink\endcsname{6}{x6-160003.3}{QQ2-6-23}{Jezabel Curbelo Hern\'andez y Rafael Granero Belinch\'on ganadores del XXIII Premio SEMA Antonio Valle al Joven Investigador}}{31}\relax 
+\doTocEntry\tocsubsubsection{3.3.1}{\csname a:TocLink\endcsname{6}{x6-170003.3.1}{QQ2-6-24}{Jezabel Curbelo Hern\'andez}}{31}\relax 
+\doTocEntry\toclof{6}{\csname a:TocLink\endcsname{6}{x6-17001r6}{}{\ignorespaces Jezabel Curbelo Hern\'andez}}{figure}\relax 
+\doTocEntry\tocsubsubsection{3.3.2}{\csname a:TocLink\endcsname{6}{x6-180003.3.2}{QQ2-6-26}{Rafael Granero Belinch\'on}}{32}\relax 
+\doTocEntry\toclof{7}{\csname a:TocLink\endcsname{6}{x6-18001r7}{}{\ignorespaces Rafael Granero Belinch\'on}}{figure}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{7}{x7-190004}{QQ2-7-28}{Jezabel Curbelo y Rafael Granero, premios Antonio Valle 2020, vistos por sus directores de tesis}}{36}\relax 
+\doTocEntry\toclof{8}{\csname a:TocLink\endcsname{7}{x7-19001r8}{}{\ignorespaces Rafael Granero Belinch\'on}}{figure}\relax 
+\doTocEntry\toclof{9}{\csname a:TocLink\endcsname{7}{x7-19002r9}{}{\ignorespaces De izquierda a derecha, Ana Mar\IeC {\'\i }a Mancho S\'anchez, Jezabel Curbelo Hern\'andez, Diego C\'ordoba Gazolaz y Rafael Orive Illera.}}{figure}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{8}{x8-200005}{QQ2-8-31}{Eleuterio Toro publica el libro autobiogr\'afico: Exiliado en Buckingham Palace}}{42}\relax 
+\doTocEntry\toclof{10}{\csname a:TocLink\endcsname{8}{x8-20001r10}{}{\ignorespaces Portada de \textbf  {Exiliado en Buckingham Palace}.}}{figure}\relax 
+\doTocEntry\toclof{11}{\csname a:TocLink\endcsname{8}{x8-20002r11}{}{\ignorespaces E.\unhbox \voidb@x \penalty \@M \relax \unhbox \voidb@x \special {t4ht@+{38}{35}x00A0;}xF. Toro y un buen n\'umero de miembros de SEMA en el Congreso en su honor en Santiago de Compostela en 2011.}}{figure}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{9}{x9-210006}{QQ2-9-34}{Anuncios}}{50}\relax 
+\doTocEntry\tocsubsection{6.1}{\csname a:TocLink\endcsname{9}{x9-220006.1}{QQ2-9-35}{CEDYA / CMA 2020 Gij\'on}}{50}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{9}{x9-230006.1}{QQ2-9-36}{Formato: }}{53}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{9}{x9-240006.1}{QQ2-9-37}{Contribuciones:}}{53}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{9}{x9-250006.1}{QQ2-9-38}{Nuevas inscripciones.}}{53}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{9}{x9-260006.1}{QQ2-9-39}{Programa cient\IeC {\'\i }fico.}}{54}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{9}{x9-270006.1}{QQ2-9-40}{Actas.}}{54}\relax 
+\doTocEntry\tocsubsection{6.2}{\csname a:TocLink\endcsname{9}{x9-280006.2}{QQ2-9-41}{Rese\~na sobre la pr\'oxima \textit  {Escuela Hispano-Francesa Jacques-Louis Lions sobre Simulaci\'on Num\'erica en F\IeC {\'\i }sica e Ingenier\IeC {\'\i }a}}}{58}\relax 
+\doTocEntry\tocsubsection{6.3}{\csname a:TocLink\endcsname{9}{x9-290006.3}{QQ2-9-42}{ECCOMAS July 2020 Newsletter}}{60}\relax 
+\doTocEntry\tocsubsection{6.4}{\csname a:TocLink\endcsname{9}{x9-300006.4}{QQ2-9-43}{WCCM-ECCOMAS Congress}}{61}\relax 
+\doTocEntry\tocsubsection{6.5}{\csname a:TocLink\endcsname{9}{x9-310006.5}{QQ2-9-44}{VI ECCOMAS Young Investigators Conference}}{65}\relax 
+\doTocEntry\tocsubsection{6.6}{\csname a:TocLink\endcsname{9}{x9-320006.6}{QQ2-9-45}{3\IeC {\textordfeminine } BYMAT Conference -- Bringing Young Mathematicians Together}}{69}\relax 
+\doTocEntry\tocsubsection{6.7}{\csname a:TocLink\endcsname{9}{x9-330006.7}{QQ2-9-46}{Actividades del Instituto de Matem\'aticas de la Universidad de Sevilla, IMUS}}{73}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{9}{x9-340006.7}{QQ2-9-47}{Entradas en el blog}}{73}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{10}{x10-350007}{QQ2-10-48}{SEMA \textit  {Journal}}}{76}\relax 
+\doTocEntry\tocsection{8}{\csname a:TocLink\endcsname{11}{x11-360008}{QQ2-11-49}{Socios institucionales}}{83}\relax 
+\par 

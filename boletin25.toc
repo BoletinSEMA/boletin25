@@ -1,0 +1,32 @@
+\select@language {french}
+\select@language {spanish}
+\contentsline {section}{Editorial}{3}{section*.2}
+\contentsline {section}{Palabras de la presidenta}{6}{section*.3}
+\contentsline {section}{\numberline {1}La Agencia Estatal de Investigaci\'on}{7}{section.1}
+\contentsline {section}{\numberline {2}9ECM en Sevilla y otras noticias del EMS Council de 2020}{10}{section.2}
+\contentsline {section}{\numberline {3}Noticias}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}Matem\'aticas vs.\ COVID-19}{12}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Premio Princesa de Asturias para cuatro matem\'aticos}{14}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Jezabel Curbelo Hern\'andez y Rafael Granero Belinch\'on ganadores del XXIII Premio SEMA Antonio Valle al Joven Investigador}{15}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Jezabel Curbelo Hern\'andez}{15}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Rafael Granero Belinch\'on}{16}{subsubsection.3.3.2}
+\contentsline {section}{\numberline {4}Jezabel Curbelo y Rafael Granero, premios Antonio Valle 2020, vistos por sus directores de tesis}{18}{section.4}
+\contentsline {section}{\numberline {5}Eleuterio Toro publica el libro autobiogr\'afico: Exiliado en Buckingham Palace}{20}{section.5}
+\contentsline {section}{\numberline {6}Anuncios}{22}{section.6}
+\contentsline {subsection}{\numberline {6.1}CEDYA / CMA 2020 Gij\'on}{22}{subsection.6.1}
+\contentsline {paragraph}{Formato: }{22}{section*.27}
+\contentsline {paragraph}{Contribuciones:}{22}{section*.28}
+\contentsline {paragraph}{Nuevas inscripciones.}{23}{section*.29}
+\contentsline {paragraph}{Programa cient\IeC {\'\i }fico.}{23}{section*.30}
+\contentsline {paragraph}{Actas.}{23}{section*.31}
+\contentsline {subsection}{\numberline {6.2}Rese\~na sobre la pr\'oxima \textit {Escuela Hispano-Francesa Jacques-Louis Lions sobre Simulaci\'on Num\'erica en F\IeC {\'\i }sica e Ingenier\IeC {\'\i }a}}{24}{subsection.6.2}
+\select@language {english}
+\contentsline {subsection}{\numberline {6.3}ECCOMAS July 2020 Newsletter}{25}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}WCCM-ECCOMAS Congress}{26}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}VI ECCOMAS Young Investigators Conference}{27}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}3\IeC {\textordfeminine } BYMAT Conference -- Bringing Young Mathematicians Together}{28}{subsection.6.6}
+\select@language {spanish}
+\contentsline {subsection}{\numberline {6.7}Actividades del Instituto de Matem\'aticas de la Universidad de Sevilla, IMUS}{29}{subsection.6.7}
+\contentsline {section}{\numberline {7}SEMA \textit {Journal}}{30}{section.7}
+\select@language {spanish}
+\contentsline {section}{\numberline {8}Socios institucionales}{33}{section.8}
