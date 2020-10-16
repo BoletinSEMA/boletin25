@@ -5,12 +5,41 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
   <link rel="stylesheet" type="text/css" href="https://www.sema.org.es/images/boletines/boletin21/boletinsema.css">
   </head>
 
     <!-- SIDEBAR -->
-    <div w3-include-html="sidebar.html"></div>
+<nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;padding-top:0px" id="mySidebar"><br>
+  <div class="w3-container">
+    <!-- <a href="https://www.sema.org.es/"><img src="https://www.sema.org.es/images/boletines/boletin21/img/sema-logo-Paco.png" style="width:45%;" class="w3-round-small"></a><br> -->
+    <a href="https://www.sema.org.es/"><img src="https://www.sema.org.es/images/boletines/boletin25/img/logosema.png" style="width:82%;padding:0px"></a>
+    <br/>
+    <a href="https://www.sema.org.es/images/boletines/boletin25/img/portada.pdf"><img src="https://www.sema.org.es/images/boletines/boletin25/img/portada_boletin.png" style="width:80%; height:50%"></a>
+</p>
+<!-- <h4><b>Índice</b></h4> -->
+</div>
+<div class="w3-bar-block">
+  <a href="https://www.sema.org.es/images/boletines/boletin25/index.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding "><i class="fa fa-th-large fa-fw w3-margin-right"></i>Portada</a>
+  <a href="https://www.sema.org.es/images/boletines/boletin25/editorial.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding "><i class="fa fa-th-large fa-fw w3-margin-right"></i>Editorial</a>
+  <a href="https://www.sema.org.es/images/boletines/boletin25/institucionales.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding "><i class="fa fa-th-large fa-fw w3-margin-right"></i>Socios Institucionales</a>
+  <a href="https://www.sema.org.es/images/boletines/boletin25/hacerse_socio.html" onclick="w3_close()" class="w3-bar-item
+                                                           w3-button w3-padding "><i class="fa fa-th-large fa-fw
+                                                                                            w3-margin-right"></i>Hacerse socio de la SEMA</a>
+  <a href="https://www.sema.org.es/images/boletines/boletin25/index.html#contacto" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>Contacto</a>
+  <p>
+  </p>
+</div>
+<div class="w3-container">
+  <p>
+    <a href="https://www.sema.org.es/images/boletines/boletin25/img/contraportada.pdf">
+      <img src="https://www.sema.org.es/images/boletines/boletin25/img/contraportada_boletin.png" style="width:80%; height:50%" class="w3-round"/></a>
+  </p>
+</div>
+</nav>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
 
     <!-- RIGHT CONTENT -->
     <div class="w3-main" style="margin-left:300px">
@@ -24,27 +53,27 @@
 
 	<!-- 0. ····························································· -->
 	<div class="w3-third w3-container w3-margin-bottom">
-	  <a href="palabras_presidenta.html"><img src="https://www.sema.org.es/images/boletines/boletin22/22/img/RosaDonat-peque.jpg" style="width:100%" class="w3-hover-opacity"></a>
+	  <a href="https://www.sema.org.es/images/boletines/boletin25/palabras_presidenta.html"><img src="https://www.sema.org.es/images/boletines/boletin22/22/img/RosaDonat-peque.jpg" style="width:100%" class="w3-hover-opacity"></a>
 	  <div class="w3-container w3-white">
-	    <p><b><a href="palabras_presidenta.html">Palabras de la presidenta</a></b></p>
+	    <p><b><a href="https://www.sema.org.es/images/boletines/boletin25/palabras_presidenta.html">Palabras de la presidenta</a></b></p>
 	    <p style="font-style:italic">Rosa M. Donat Beneito</p>
 	  </div>
 	</div>
 
 	<!-- 1. ····························································· -->
 	<div class="w3-third w3-container w3-margin-bottom">
-	  <a href="sec1.html"><img src="figuras/aei-portada.jpg" style="width:100%" class="w3-hover-opacity"></a>
+	  <a href="https://www.sema.org.es/images/boletines/boletin25/sec1.html"><img src="https://www.sema.org.es/images/boletines/boletin25/figuras/aei-portada.jpg" style="width:100%" class="w3-hover-opacity"></a>
 	  <div class="w3-container w3- -hite">
-	    <p><b><a href="sec1.html"> La Agencia Estatal de Investigación</a></b></p>
+	    <p><b><a href="https://www.sema.org.es/images/boletines/boletin25/sec1.html"> La Agencia Estatal de Investigación</a></b></p>
 	    <p style="font-style:italic">Francisco Martín Serrano</p>
 	  </div>
 	</div>
 
 	<!-- 2. ····························································· -->
 	<div class="w3-third w3-container w3-margin-bottom">
-	  <a href="sec2.html"><img src="figuras/logoECM2024-portada.jpg" style="width:100%" class="w3-hover-opacity"></a>
+	  <a href="https://www.sema.org.es/images/boletines/boletin25/sec2.html"><img src="https://www.sema.org.es/images/boletines/boletin25/figuras/logoECM2024-portada.jpg" style="width:100%" class="w3-hover-opacity"></a>
 	  <div class="w3-container w3-white">
-	    <p><b><a href="sec2.html">9ECM en Sevilla y otras noticias del EMS Council
+	    <p><b><a href="https://www.sema.org.es/images/boletines/boletin25/sec2.html">9ECM en Sevilla y otras noticias del EMS Council
 de 2020</a></b></p>
 	    <p style="font-style:italic">Mª Ángeles Rodríguez Bellido</p>
 	  </div>
@@ -57,18 +86,18 @@ de 2020</a></b></p>
 
 	<!-- 3. ····························································· -->
 	<div class="w3-third w3-container">
-	  <a href="sec3.html"><img src="figuras/noticias-portada.png" style="width:100%" class="w3-hover-opacity"></a>
+	  <a href="https://www.sema.org.es/images/boletines/boletin25/sec3.html"><img src="https://www.sema.org.es/images/boletines/boletin25/figuras/noticias-portada.png" style="width:100%" class="w3-hover-opacity"></a>
 	  <div class="w3-container w3-white">
-	    <p><b><a href="sec3.html">Noticias</a></b></p>
+	    <p><b><a href="https://www.sema.org.es/images/boletines/boletin25/sec3.html">Noticias</a></b></p>
 	  </div>
 	</div>
 
 
 	<!-- 4. ····························································· -->
 	<div class="w3-third w3-container w3-margin-bottom">
-	  <a href="sec4.html"><img src="figuras/premios-portada.png" style="width:100%" class="w3-hover-opacity"></a>
+	  <a href="https://www.sema.org.es/images/boletines/boletin25/sec4.html"><img src="https://www.sema.org.es/images/boletines/boletin25/figuras/premios-portada.png" style="width:100%" class="w3-hover-opacity"></a>
 	  <div class="w3-container w3-white">
-	    <p><b><a href="sec4.html">Jezabel Curbelo y Rafael Granero, premios Antonio
+	    <p><b><a href="https://www.sema.org.es/images/boletines/boletin25/sec4.html">Jezabel Curbelo y Rafael Granero, premios Antonio
 Valle 2020, vistos por sus directores de tesis</a></b></p>
 	    <p style="font-style:italic"><br/>María Luisa Rapún Banzo</p>
 	  </div>
@@ -77,9 +106,9 @@ Valle 2020, vistos por sus directores de tesis</a></b></p>
 
 	<!-- 5. ····························································· -->
 	<div class="w3-third w3-container w3-margin-bottom">
-	  <a href="sec5.html"><img src="figuras/exiliado-portada.png" style="width:100%" class="w3-hover-opacity"></a>
+	  <a href="https://www.sema.org.es/images/boletines/boletin25/sec5.html"><img src="https://www.sema.org.es/images/boletines/boletin25/figuras/exiliado-portada.png" style="width:100%" class="w3-hover-opacity"></a>
 	  <div class="w3-container w3-white">
-	    <p><b><a href="sec5.html">Eleuterio Toro publica el libro autobiográfico: Exiliado en Buckingham Palace</a></b></p>
+	    <p><b><a href="https://www.sema.org.es/images/boletines/boletin25/sec5.html">Eleuterio Toro publica el libro autobiográfico: Exiliado en Buckingham Palace</a></b></p>
 	    <p style="font-style:italic"><br/>Mª Elena Vázquez Cendón</p>
 	  </div>
 	</div>
@@ -91,9 +120,9 @@ Valle 2020, vistos por sus directores de tesis</a></b></p>
 
 	<!-- 6. ····························································· -->
 	<div class="w3-third w3-container w3-margin-bottom">
-	  <a href="sec6.html"><img src="figuras/anuncios-portada.png" style="width:100%" class="w3-hover-opacity"></a>
+	  <a href="https://www.sema.org.es/images/boletines/boletin25/sec6.html"><img src="https://www.sema.org.es/images/boletines/boletin25/figuras/anuncios-portada.png" style="width:100%" class="w3-hover-opacity"></a>
 	  <div class="w3-container w3-white">
-	    <p><b><a href="sec6.html">Anuncios</a></b></p>
+	    <p><b><a href="https://www.sema.org.es/images/boletines/boletin25/sec6.html">Anuncios</a></b></p>
 	    <p style="font-style:italic"></p>
 	  </div>
 	</div>
@@ -102,9 +131,9 @@ Valle 2020, vistos por sus directores de tesis</a></b></p>
 	<!-- 7. ····························································· -->
 
 	<div class="w3-third w3-container">
-	  <a href="sec7.html"><img src="https://www.sema.org.es/images/img/sema-journal.jpg" style="width:100%" class="w3-hover-opacity"></a>
+	  <a href="https://www.sema.org.es/images/boletines/boletin25/sec7.html"><img src="https://www.sema.org.es/images/img/sema-journal.jpg" style="width:100%" class="w3-hover-opacity"></a>
 	  <div class="w3-container w3-white">
-	    <p><b><a href="sec7.html">SEMA Journal</a></b></p>
+	    <p><b><a href="https://www.sema.org.es/images/boletines/boletin25/sec7.html">SEMA Journal</a></b></p>
 	    <p style="font-style:italic"></p>
 	  </div>
 	</div>
